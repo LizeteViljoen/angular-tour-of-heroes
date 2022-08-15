@@ -16,6 +16,7 @@
   .heroes li {
     position: relative;
     cursor: pointer;
+    border-radius: 25%;
   }
   
   .heroes li:hover {
